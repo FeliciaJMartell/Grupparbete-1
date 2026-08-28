@@ -1,28 +1,23 @@
-h1 {
-    background-color: brown;
 
-}
-
-body {
-    background-color: gold;
-}
-
-ul {
-    background-color: blue;
+/** Jag har här lagt bakgrundsfärg och textfärg, jag har länkat de olika färgerna beroende på element i htlm texten. 
+Jag valde att lägga text i h1 i mitten av hemsidan, därav text-align. */
     
+body{   
+    background-color: lightblue;
 }
 
-li {
-    background-color: blueviolet;
+h1{
+    color: black;
     text-align: center;
 }
 
-img {
-    display: block;   /*gör om bilden till en block*/
-    margin-left: auto; 
-    margin-right: auto;
+p { 
+    
+    color: black;
+
 }
 
-span {
-    color: violet; /*vilken färg span elementet har*/
+ul {
+    color: black;
 }
+
