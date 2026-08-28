@@ -1,0 +1,28 @@
+h1 {
+    background-color: brown;
+
+}
+
+body {
+    background-color: gold;
+}
+
+ul {
+    background-color: blue;
+    
+}
+
+li {
+    background-color: blueviolet;
+    text-align: center;
+}
+
+img {
+    display: block;   /*gör om bilden till en block*/
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+span {
+    color: violet; /*vilken färg span elementet har*/
+}
